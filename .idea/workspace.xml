@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/TimJavaCourseLecture40Switch/Main.java" line="8" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/src/TimJavaCourseExercise19GreatestCommonDivisor/Main.java" line="10" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9d66905-a986-4ebb-a85c-1a112cc23953" name="Default Changelist" comment="" />
+    <list default="true" id="a9d66905-a986-4ebb-a85c-1a112cc23953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TimJavaCourseExercise19GreatestCommonDivisor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,22 +29,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10026" />
+          <entry key="java" value="12982" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10026" />
+          <entry key="JAVA" value="12982" />
         </counts>
       </usages-collector>
     </session>
@@ -78,11 +81,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise18LastDigitChecker/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise19GreatestCommonDivisor/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise20AllFactors/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise21PerfectNumber/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise22NumberToWords/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -104,9 +143,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,13 +174,21 @@
         <option value="$PROJECT_DIR$/src/TimJavaCourseExercise16EvenDigitSum/Main.java" />
         <option value="$PROJECT_DIR$/src/TimJavaCourseExercise17SharedDigit/Main.java" />
         <option value="$PROJECT_DIR$/src/TimJavaCourseExercise18LastDigitChecker/Main.java" />
+        <option value="$PROJECT_DIR$/src/TimJavaCourseExercise19GreatestCommonDivisor/Main.java" />
+        <option value="$PROJECT_DIR$/src/TimJavaCourseExercise20AllFactors/main.java" />
+        <option value="$PROJECT_DIR$/src/TimJavaCourseExercise21PerfectNumber/Main.java" />
+        <option value="$PROJECT_DIR$/src/TimJavaCourseExercise22NumberToWords/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="172" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1843" />
+    <option name="y" value="261" />
     <option name="width" value="1680" />
     <option name="height" value="983" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -171,7 +222,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536001478572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536013848660" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -189,13 +240,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExerciseExircise14Palindrome.Main" />
+      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExercise21PerfectNumber.Main" />
       <module name="TimJavaCourseMethodOverloadingLecture35" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TimJavaCourseExerciseExircise14Palindrome.*" />
+          <option name="PATTERN" value="TimJavaCourseExercise21PerfectNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,24 +255,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExercise15FirstAndLastDigitSum.Main" />
+      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExercise22NumberToWords.Main" />
       <module name="TimJavaCourseMethodOverloadingLecture35" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TimJavaCourseExercise15FirstAndLastDigitSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExercise16EvenDigitSum.Main" />
-      <module name="TimJavaCourseMethodOverloadingLecture35" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TimJavaCourseExercise16EvenDigitSum.*" />
+          <option name="PATTERN" value="TimJavaCourseExercise22NumberToWords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +280,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExercise17SharedDigit.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExercise19GreatestCommonDivisor.Main" />
       <module name="TimJavaCourseMethodOverloadingLecture35" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TimJavaCourseExercise17SharedDigit.*" />
+          <option name="PATTERN" value="TimJavaCourseExercise19GreatestCommonDivisor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimJavaCourseExercise20AllFactors.main" />
+      <module name="TimJavaCourseMethodOverloadingLecture35" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TimJavaCourseExercise20AllFactors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,19 +307,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -286,9 +337,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="172" width="1680" height="983" extended-state="0" />
+    <frame x="-1920" y="22" width="1920" height="1133" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4966292" visible="true" weight="0.26800978" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4966292" visible="true" weight="0.23375931" />
       <window_info id="Structure" order="1" sideWeight="0.50337076" side_tool="true" weight="0.25579977" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,15 +349,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.50337076" side_tool="true" weight="0.25579977" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29517397" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24207492" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32884398" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3429395" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -470,8 +522,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise18LastDigitChecker/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise19GreatestCommonDivisor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise20AllFactors/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise21PerfectNumber/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimJavaCourseExercise22NumberToWords/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
         </state>
       </provider>
     </entry>
